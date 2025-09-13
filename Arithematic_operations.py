@@ -1,0 +1,10 @@
+a = int(input("Enter first Number:"))
+b = int(input("Enter Second Number:"))
+
+print("Arithematic Operations are:")
+print("Sum = "+(a+b))
+print("Difference = "+(a-b))
+print("Product = "+(a*b))
+print("Quoitent = "+(a/b))
+print("Remainder = "+(a%b))
+print("Exponential = "+(a**b))
